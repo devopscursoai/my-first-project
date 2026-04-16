@@ -1,0 +1,7 @@
+"scripts": {
+  "lint": "echo \"No linter configured yet\"",
+  "format:check": "echo \"No formatter configured yet\"",
+  "build": "echo \"No build step yet\"",
+  "test": "echo \"No tests yet\""
+}
+
