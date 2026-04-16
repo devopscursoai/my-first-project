@@ -1,3 +1,14 @@
+
+
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+
+
 "scripts": {
   "lint": "echo \"No linter configured yet\"",
   "format:check": "echo \"No formatter configured yet\"",
